@@ -14,10 +14,10 @@ I am a data-driven problem solver with experience in:
 ## 🧠 Skills
 - **Languages:** Python, SQL, JavaScript (basic)
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib
-- **Tools:** Git, GitHub, VS Code, Jupyter, Postman
+- **Tools:** Git, GitHub, VS Code, Jupyter, Postman, Snowflake, Databrick, PowerBi and Tablue 
 - **Concepts:** ETL, APIs, Data Pipelines, ML Models
 
-## 📂 Projects Included
+## 📂 Projects Included 
 ### 1. Project 1 — Title
 Short description of what it does.
 
