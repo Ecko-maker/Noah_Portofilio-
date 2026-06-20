@@ -27,7 +27,10 @@ Short description of what it does.
 ### 3. Project 3 — Title
 Short description of what it does.
 
-### 4. Project 4 — Title (optional)
+### 4. Project 4 — Title
+Short description of what it does.
+
+### 5. Project 5 — Title 
 Short description of what it does.
 
 ## 📬 Contact
