@@ -34,6 +34,6 @@ Short description of what it does.
 Short description of what it does.
 
 ## 📬 Contact
-- **LinkedIn:** your link
-- **Email:** your email
+- **LinkedIn:** http://linkedin.com/noah-asgodom/
+- **Email:** noahasgodom104@Gmail.com
 # Noah_Portfolio-
