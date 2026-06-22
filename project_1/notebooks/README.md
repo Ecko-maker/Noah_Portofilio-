@@ -8,3 +8,15 @@ Describe what this folder is used for.
 
 ## Notes
 Add any additional context or instructions.
+
+# Notebooks
+
+This directory contains Jupyter notebooks used for:
+
+- Exploratory data analysis (EDA)
+- Data profiling
+- Experimentation
+- Visualizations
+- Prototyping transformations
+
+Notebooks are for exploration and should not replace production scripts.
