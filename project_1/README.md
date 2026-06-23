@@ -1,5 +1,4 @@
-# nashville_housing_etl_pipeline
-# 🏡 Nashville Housing Data Cleaning Project (SQL)
+# 🏡 Nashville Housing Data Project (SQL)
 
 ## 🚀 Overview
 This project focuses on cleaning and transforming the Nashville Housing dataset using SQL Server Management Studio (SSMS). The goal was to take a raw, inconsistent dataset and convert it into a clean, analysis‑ready table using professional SQL techniques.
