@@ -1,4 +1,4 @@
-# Project 1
+# nashville_housing_etl_pipeline
 # 🏡 Nashville Housing Data Cleaning Project (SQL)
 
 ## 🚀 Overview
