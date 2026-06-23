@@ -8,3 +8,15 @@ Describe what this folder is used for.
 
 ## Notes
 Add any additional context or instructions.
+
+# Visuals
+
+This folder contains visual outputs generated during the project.
+
+Examples:
+- Charts
+- Plots
+- Dashboards
+- Screenshots
+
+These visuals support storytelling and reporting.

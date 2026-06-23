@@ -14,10 +14,10 @@ I am a data-driven problem solver with experience in:
 ## 🧠 Skills
 - **Languages:** Python, SQL, JavaScript (basic)
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib
-- **Tools:** Git, GitHub, VS Code, Jupyter, Postman
+- **Tools:** Git, GitHub, VS Code, Jupyter, Postman, Snowflake, Databrick, PowerBi and Tablue 
 - **Concepts:** ETL, APIs, Data Pipelines, ML Models
 
-## 📂 Projects Included
+## 📂 Projects Included 
 ### 1. Project 1 — Title
 Short description of what it does.
 
@@ -27,10 +27,13 @@ Short description of what it does.
 ### 3. Project 3 — Title
 Short description of what it does.
 
-### 4. Project 4 — Title (optional)
+### 4. Project 4 — Title
+Short description of what it does.
+
+### 5. Project 5 — Title 
 Short description of what it does.
 
 ## 📬 Contact
-- **LinkedIn:** your link
-- **Email:** your email
+- **LinkedIn:** http://linkedin.com/noah-asgodom/
+- **Email:** noahasgodom104@Gmail.com
 # Noah_Portfolio-

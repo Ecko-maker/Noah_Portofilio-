@@ -8,3 +8,13 @@ Describe what this folder is used for.
 
 ## Notes
 Add any additional context or instructions.
+
+# Reports
+
+This folder contains generated reports, summaries, and insights.
+
+Examples:
+- EDA summaries
+- Data quality reports
+- Project findings
+- PDF or markdown reports
