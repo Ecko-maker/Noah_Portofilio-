@@ -111,27 +111,6 @@ nashville-housing-eda/
 └── README.md
 ```
 
----
-
-## ⚙️ Setup & Installation
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/your-username/nashville-housing-eda.git
-cd nashville-housing-eda
-
-# 2. Create a virtual environment
-python -m venv venv
-source venv/bin/activate       # Mac/Linux
-venv\Scripts\activate          # Windows
-
-# 3. Install dependencies
-pip install -r requirements.txt
-
-# 4. Launch Jupyter
-jupyter notebook
-```
-
 **requirements.txt**
 ```
 pandas>=2.0.0
@@ -168,8 +147,8 @@ jupyter>=1.0.0
 
 ## 👤 Author
 
-**Your Name**
-📧 your.email@example.com
+**Noah Asgodom**
+📧 noahasgodom104@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourwebsite.com) | [Power BI Dashboard](https://github.com/your-username/nashville-housing-powerbi)
 
 ---
