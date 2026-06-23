@@ -7,6 +7,8 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
+- Nashville Housing — End‑to‑End Data Pipeline (SQL + DuckDB)  
+This project delivers a complete data workflow for the Nashville Housing dataset. It covers:
 > End-to-end exploratory analysis of the Nashville Housing dataset — uncovering pricing patterns, geographic trends, and feature relationships through structured Python visualisations.
 
 ---
