@@ -18,7 +18,7 @@ I am a data-driven problem solver with experience in:
 - **Concepts:** ETL, APIs, Data Pipelines, ML Models
 
 ## 📂 Projects Included 
-### 1. Project 1 — Title
+### 1. Nashville_housing_etl_pipeline 
 Short description of what it does.
 
 ### 2. Project 2 — Title

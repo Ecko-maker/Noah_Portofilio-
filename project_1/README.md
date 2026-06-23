@@ -1,5 +1,4 @@
-# Project 1
-# 🏡 Nashville Housing Data Cleaning Project (SQL)
+# 🏡 Nashville Housing Data Project (SQL)
 
 ## 🚀 Overview
 This project focuses on cleaning and transforming the Nashville Housing dataset using SQL Server Management Studio (SSMS). The goal was to take a raw, inconsistent dataset and convert it into a clean, analysis‑ready table using professional SQL techniques.
@@ -66,7 +65,6 @@ Used a CTE with `ROW_NUMBER()` to identify and delete duplicates.
 4. Run the script step-by-step or all at once  
 
 ---
-
 ## 📈 Results
 - Clean, analysis-ready dataset  
 - Standardized address fields  
@@ -74,7 +72,7 @@ Used a CTE with `ROW_NUMBER()` to identify and delete duplicates.
 - No duplicate records  
 - Improved data quality for reporting or dashboards  
 
-Add screenshots in the `screenshots/` folder to show before/after results.
+Nashville Housing Market Dashboard — Created by Noah Asgodom | Data Source: Nashville Open Data”
 
 ---
 
