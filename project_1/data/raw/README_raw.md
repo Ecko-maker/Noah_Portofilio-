@@ -41,7 +41,7 @@ data/raw/Nashville Housing Data.xlsx
 Search for `Nashville Housing Data` on [Kaggle Datasets](https://www.kaggle.com/datasets) and download the Excel file.
 
 **Option 3 — From the project maintainer:**
-Contact [your.email@example.com](mailto:your.email@example.com) to request access to the original file.
+Contact [your.email@example.com](noahasgodom104@gamil.com) to request access to the original file.
 
 ---
 
