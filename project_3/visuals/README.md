@@ -1,7 +1,7 @@
 
 ---
 
-### **2. README for Power BI Dashboard**
+### **. README for Power BI Dashboard**
 
 ```markdown
 # Cereal Rating Analysis - Power BI Dashboard
@@ -74,9 +74,3 @@ Provide interactive insights into **what drives cereal health ratings** for prod
 
 ---
 
-**Would you like me to also generate:**
-- A `requirements.txt` file?
-- Folder structure suggestion?
-- Short version of either README?
-
-Just say the word!
