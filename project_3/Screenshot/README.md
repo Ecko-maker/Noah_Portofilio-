@@ -18,3 +18,34 @@ The dashboard provides business-friendly visuals including:
 - Full correlation heatmap
 - Shelf position insights
 
+# 📂 visuals
+
+Exported chart PNGs from the Cereal Rating Analysis notebook.
+
+---
+
+## Files
+
+| File | Section | Description |
+|------|---------|-------------|
+| `boxplot_type_vs_rating.png` | Q8 | Side-by-side boxplot — Cold vs Hot cereal ratings |
+| `heatmap_nutrient_correlation.png` | Q9 | Pearson correlation heatmap — sugars, calories, carbo, fat |
+| `pairplot_sugars_calories_carbo_fat.png` | Q9 | Pairplot of four nutrient relationships |
+| `scatterplot_calories_vs_rating.png` | Q11 | Mean rating per calorie level — negative trend |
+| `heatmap_shelf_vs_calories.png` | Q12 | Chi-Square contingency heatmap — shelf × calories |
+
+---
+
+## How to Export from Notebook
+
+After running each visualisation cell in `CerealRatingAnalysis.ipynb`, save with:
+
+```python
+plt.savefig('../visuals/chart_name.png', bbox_inches='tight', dpi=130)
+```
+
+---
+
+## Usage
+
+These PNGs are referenced directly in the main README and can be embedded in GitHub as portfolio screenshots.
