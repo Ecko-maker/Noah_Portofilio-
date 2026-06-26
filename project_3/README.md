@@ -116,8 +116,8 @@ An interactive dashboard was built to make insights accessible to non-technical 
 **Noah Asgodom**  
 Data Analyst | Aspiring Data Scientist
 
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
-- **Portfolio**: [Your Website](https://yourportfolio.com)
+- **LinkedIn**: [Your Profile](www.linkedin.com/in/noah-nta)
+- **Portfolio**: [Your Website](https://github.com/Ecko-maker/Noah_Portofilio-/blob/main/project_3)
 
 ---
 
