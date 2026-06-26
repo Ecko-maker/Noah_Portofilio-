@@ -1,4 +1,4 @@
-# Folder: data
+# Folder: raw
 
 ## Purpose
 Describe what this folder is used for.
