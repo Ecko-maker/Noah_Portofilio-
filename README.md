@@ -24,10 +24,10 @@ Short description of what it does.
 ### 2. Project 2 — Title
 Short description of what it does.
 
-### 3. Project 3 — Title
+### 3. Project 3 — # Cereal Rating Analysis
 Short description of what it does.
 
-### 4. 📚 Library Management System — Relational Database & Financial Analytics
+### 4. Project 4 📚 Library Management System — Relational Database & Financial Analytics
 Short description of what it does.
 
 ### 5. Project 5 — Title 
