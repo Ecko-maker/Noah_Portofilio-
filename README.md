@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Project 5
-=======
+
 # 📁 Noah’s Data & AI Portfolio
 
 Welcome to my professional portfolio. This repository contains a collection of my best projects in Data Analysis, Machine Learning, APIs, and Automation.
