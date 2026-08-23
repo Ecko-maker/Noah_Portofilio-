@@ -299,7 +299,7 @@ AVERAGE(nashville_housing_powerbi[PriceToValue_Ratio])
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/nashville-housing-analytics.git
+git clone https://github.com/Ecko-maker/Noah_Portofilio-.git
 cd nashville-housing-analytics
 
 # Create and activate virtual environment
@@ -373,9 +373,9 @@ __pycache__/
 
 ## 👤 Author
 
-**Your Name**  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourwebsite.com)
+**Noah Asgodom**  
+📧 noahasgodom104@gmail.com  
+🔗 [LinkedIn](http://linkedin.com/noah-asgodom/) | [Portfolio](https://github.com/Ecko-maker/Noah_Portofilio-)
 
 ---
 

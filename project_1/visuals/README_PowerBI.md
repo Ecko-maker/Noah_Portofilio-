@@ -195,17 +195,17 @@ nashville-housing-powerbi/
 
 | Project | Description | Link |
 |---------|-------------|------|
-| Data Cleaning Pipeline | DuckDB + SQL in Jupyter | [nashville-housing-cleaning](https://github.com/your-username/nashville-housing-cleaning) |
-| Python EDA | Pandas + Seaborn analysis | [nashville-housing-eda](https://github.com/your-username/nashville-housing-eda) |
+| Data Cleaning Pipeline | DuckDB + SQL in Jupyter | [project_1/notebooks/01_data_cleaning.ipynb](../notebooks/01_data_cleaning.ipynb) |
+| Python EDA | Pandas + Seaborn analysis | [project_1/notebooks/02_eda.ipynb](../notebooks/02_eda.ipynb) |
 | Power BI Dashboard | This repo | — |
 
 ---
 
 ## 👤 Author
 
-**Your Name**
-📧 your.email@example.com
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourwebsite.com)
+**Noah Asgodom**
+📧 noahasgodom104@gmail.com
+🔗 [LinkedIn](http://linkedin.com/noah-asgodom/) | [Portfolio](https://github.com/Ecko-maker/Noah_Portofilio-)
 
 ---
 

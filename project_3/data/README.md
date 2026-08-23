@@ -63,7 +63,7 @@ This dataset is excellent for practicing:
 
 ## 🔗 Related Projects
 
-- [Jupyter Notebook Analysis](../Notebook/CerealRatingAnalysis.ipynb)
+- [Jupyter Notebook Analysis](../notebooks/CerealRatingAnalysis.ipynb)
 - [Power BI Dashboard](../Dashboard/Cereal_Rating_Dashboard.pbix)
 
 ---

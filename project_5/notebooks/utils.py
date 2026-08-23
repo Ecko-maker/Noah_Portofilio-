@@ -27,7 +27,7 @@ ROLL_WINDOWS = [7, 14]       # rolling-window sizes
 # Data Loading
 # ─────────────────────────────────────────────
 
-def load_data(filepath="data/covid.csv"):
+def load_data(filepath="../data/raw/covid.csv"):
     """Load the series as a tidy frame with `date` (datetime) and `y` (target)."""
     df = pd.read_csv(filepath)
     df = df.rename(columns={DATE_COL: "date", VALUE_COL: "y"})

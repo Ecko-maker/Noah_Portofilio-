@@ -151,7 +151,7 @@ jupyter>=1.0.0
 
 **Noah Asgodom**
 📧 noahasgodom104@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourwebsite.com) | [Power BI Dashboard](https://github.com/your-username/nashville-housing-powerbi)
+🔗 [LinkedIn](http://linkedin.com/noah-asgodom/) | [Portfolio](https://github.com/Ecko-maker/Noah_Portofilio-) | [Power BI Dashboard](../dashboard/Nashville_Housing_Dashboard.pbix)
 
 ---
 

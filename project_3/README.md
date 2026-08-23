@@ -20,7 +20,7 @@ This project analyzes a dataset of **77 breakfast cereals** to uncover the key n
 
 ```bash
 Cereal-Rating-Analysis/
-├── Notebook/                          # Jupyter Notebook Analysis
+├── notebooks/                         # Jupyter Notebook Analysis
 │   ├── CerealRatingAnalysis.ipynb
 │   └── requirements.txt
 │
@@ -28,8 +28,8 @@ Cereal-Rating-Analysis/
 │   ├── Cereal_Rating_Dashboard.pbix
 │   └── README.md
 │
-├── Data/
-│   └── Raw/
+├── data/
+│   └── raw/
 │       └── Cereals.xlsx
 │
 ├── Screenshots/                       # Visual documentation
@@ -105,7 +105,7 @@ An interactive dashboard was built to make insights accessible to non-technical 
 
 ## 🚀 How to Explore This Project
 
-1. **Notebook Analysis**: Open `Notebook/CerealRatingAnalysis.ipynb`
+1. **Notebook Analysis**: Open `notebooks/CerealRatingAnalysis.ipynb`
 2. **Interactive Dashboard**: Open `Dashboard/Cereal_Rating_Dashboard.pbix` in Power BI Desktop
 3. **Quick View**: Check the `Screenshots/` folder
 
